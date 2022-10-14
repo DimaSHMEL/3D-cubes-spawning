@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/3D cubes spawner/[Ll]ibrary/
+/3D cubes spawner/[Tt]emp/
+/3D cubes spawner/[Oo]bj/
+/3D cubes spawner/[Bb]uild/
+/3D cubes spawner/[Bb]uilds/
+/3D cubes spawner/[Ll]ogs/
+/3D cubes spawner/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
