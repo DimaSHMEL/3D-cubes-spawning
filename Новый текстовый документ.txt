@@ -1,0 +1,6 @@
+UI with input texts
+
+1. All needed input texts was made in UI
+1.1. Speed inputs for x y z
+1.2. Distance input after which cube will vanish
+1.3. Spawn cubes, time limit after which new cube appear
